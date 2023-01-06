@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "967479662246",
+    "project_id": "hibye-chat-a5c8a",
+    "storage_bucket": "hibye-chat-a5c8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967479662246:android:3259c0da112d1ee4ac0667",
+        "android_client_info": {
+          "package_name": "com.example.hibye"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967479662246-r0dvsn1g174dnie4s1kudh7402pe8f3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLRXaNlwYwZLk3vz40Nrar1edff3Loruc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967479662246-r0dvsn1g174dnie4s1kudh7402pe8f3d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
